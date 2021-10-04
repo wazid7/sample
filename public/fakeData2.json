@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "UI/UX DESIGN",
+      "price": 200,
+      "img": "https://www.techprevue.com/wp-content/uploads/2016/07/mobile-app-ux-ui-basics.jpg"
+    },
+    {
+      "id": 2,
+      "name": "WEB DESIGN",
+      "price": 400,
+      "img": "https://www.cloudways.com/blog/wp-content/uploads/20-Best-Web-Design-Tools-for-Design-Agencies.jpg"
+    },
+    {
+      "id": 3,
+      "name": "GRAPHIC DESIGN",
+      "price": 300,
+      "img": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?size=626&ext=jpg"
+    },
+    {
+      "id": 4,
+      "name": "GAME DEVELOPMENT",
+      "price": 300,
+      "img": "https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2020-02/common-words-and-phrases.jpg?itok=nNCHk86-"
+    },
+    {
+      "id": 5,
+      "name": "C DEVELOPMENT",
+      "price": 500,
+      "img": "https://www.codesansar.com/storage/app/media/seo/c-programming.jpg"
+    },
+    {
+      "id": 6,
+      "name": "C# DEVELOPMENT",
+      "price": 900,
+      "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Csharp_Programming_for_Beginners.jpg"
+    },
+    {
+      "id": 7,
+      "name": "PYTHON DEVELOPMENT",
+      "price": 1200,
+      "img": "https://content.techgig.com/photo/80100245/8-steps-to-master-python-programming-for-data-science.jpg?88712"
+    },
+    {
+      "id": 8,
+      "name": "JAVA DEVELOPMENT",
+      "price": 900,
+      "img": "https://www.learncomputerscienceonline.com/wp-content/uploads/2019/12/Java-Programming-Basics.jpg"
+    },
+    {
+      "id": 9,
+      "name": "ANDROID DEVELOPMENT",
+      "price": 1690,
+      "img": "https://codeberryschool.com/blog/wp-content/uploads/2021/03/Android-app-development-1280x640.jpg"
+    },
+    {
+      "id": 10,
+      "name": "FLUTTER DEVELOPMENT",
+      "price": 1690,
+      "img": "https://cdn.sanity.io/images/ay6gmb6r/production/08e7936ad914738c0f51664eef1497f661c46afb-2240x1260.png?w=795&fm=webp&fit=max&auto=format"
+    }
+  ]

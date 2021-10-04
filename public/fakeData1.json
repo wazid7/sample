@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "UI/UX DESIGN",
+      "price": 200,
+      "img": "https://www.techprevue.com/wp-content/uploads/2016/07/mobile-app-ux-ui-basics.jpg"
+    },
+    {
+      "id": 2,
+      "name": "WEB DESIGN",
+      "price": 400,
+      "img": "https://www.cloudways.com/blog/wp-content/uploads/20-Best-Web-Design-Tools-for-Design-Agencies.jpg"
+    },
+    {
+      "id": 3,
+      "name": "GRAPHIC DESIGN",
+      "price": 300,
+      "img": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?size=626&ext=jpg"
+    },
+    {
+      "id": 4,
+      "name": "GAME DEVELOPMENT",
+      "price": 300,
+      "img": "https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2020-02/common-words-and-phrases.jpg?itok=nNCHk86-"
+    }
+  ]
